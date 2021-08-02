@@ -20,7 +20,7 @@ to be more specfic this repository includes the following:
 
 Classes:
 
-    https://docs.google.com/document/d/137_rd5jLXmiv9EvTSIna_2kXu9MegIvc0pzrCoGis4U/edit?usp=sharing
+    https://docs.google.com/document/d/137_rd5jLXmiv9EvTSIna_2kXu9MegIvc0pzrCoGis4U/edit
 
 
 Dictionaries:
