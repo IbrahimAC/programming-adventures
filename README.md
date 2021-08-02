@@ -11,6 +11,8 @@ to be more specfic this repository includes the following:
   
   ->Notes and code on Datastructures and Algorithms 
   
-  -> Several practice examanitions I did 
+  -> Several practice examanitions I did
   
-  ->All document links to the labs I created for my blog web app project and any notes I may have made a plethora of material I studied 
+  -> Labs created for my blog web app project I did on Django using Pythonm, HTML and CSS
+  
+  ->A file containg  all document links to the labs I created for my blog web app project and any notes I may have made a plethora of material I studied in one place
