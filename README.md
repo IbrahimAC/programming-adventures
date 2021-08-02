@@ -17,4 +17,3 @@ to be more specfic this repository includes the following:
   
   ->A file containg  all document links to the labs I created for my blog web app project and any notes I may have made a plethora of material I studied in one place
   
-  This file has all of the links to documents and files that I have created in one place.
