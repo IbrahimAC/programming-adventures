@@ -5,8 +5,6 @@ to be more specfic this repository includes the following:
 
   ->Functions coded for practice in python and  javascript
   
-  www.google.com
-  
   ->Notes and code relating to the OOP Principles 
   
   ->Notes and code on Classes 
