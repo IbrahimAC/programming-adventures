@@ -1,5 +1,0 @@
-The images through this link were the ones we used for the exam
-https://drive.google.com/drive/folders/1ZWHCDKO2cgsTWQ8LYTqC1QZDn9zbuVCr?usp=sharing
-
-#We had one hour, each attempt was done within the exam
-#I did not solve it, ran into an issue with the inbuilt 'and' function and its logic
