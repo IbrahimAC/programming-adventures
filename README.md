@@ -1,9 +1,9 @@
-Hello to anyone reading this!
+# Python Practice Repo
 
-In this repository you will find  what I have coded and explored in my time spent indepently learning software development, which started several months ago.
+#### In this repository you will find  what I have coded and explored in my time spent indepently learning software development, which started several months ago.
 to be more specfic this repository includes the following:
 
-  ->Functions coded for practice in python and  javascript
+  ->Functions coded for practice in python
   
   ->Notes and code relating to the OOP Principles 
   
