@@ -1,7 +1,6 @@
 # Python Practice Repo
 
-#### In this repository you will find  what I have coded and explored in my time spent indepently learning software development, which started several months ago.
-to be more specfic this repository includes the following:
+#### This repository contains
 
   ->Functions coded for practice in python
   
